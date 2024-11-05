@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\WeatherService.csproj": {}
+    "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherService\\WeatherService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\WeatherService.csproj": {
+    "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherService\\WeatherService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\WeatherService.csproj",
+        "projectUniqueName": "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherService\\WeatherService.csproj",
         "projectName": "WeatherService",
-        "projectPath": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\WeatherService.csproj",
+        "projectPath": "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherService\\WeatherService.csproj",
         "packagesPath": "C:\\Users\\Shubham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\obj\\",
+        "outputPath": "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shubham\\AppData\\Roaming\\NuGet\\NuGet.Config",

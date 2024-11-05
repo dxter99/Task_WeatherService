@@ -1,4 +1,5 @@
-﻿using System.Net.Http;
+﻿using Microsoft.Extensions.Options;
+using System.Net.Http;
 using System.Threading.Tasks;
 using WeatherService.Models;
 
@@ -10,11 +11,11 @@ namespace WeatherService.Services
         private readonly string _apiKey;
         private readonly string _baseUrl;
 
-        public WeatherDataService(HttpClient httpClient, string apiKey, string baseUrl)
+        public WeatherDataService(HttpClient httpClient, IOptions<WeatherServiceSettings> settings)
         {
             _httpClient = httpClient;
-            _apiKey = apiKey;
-            _baseUrl = baseUrl;
+            _apiKey = settings.Value.ApiKey;
+            _baseUrl = settings.Value.BaseUrl;
         }
 
         public async Task<int?> GetCityIdByNameAsync(string cityName)

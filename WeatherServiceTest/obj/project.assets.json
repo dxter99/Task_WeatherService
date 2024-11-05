@@ -6076,11 +6076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherServiceTest\\WeatherServiceTest.csproj",
+      "projectUniqueName": "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherServiceTest\\WeatherServiceTest.csproj",
       "projectName": "WeatherServiceTest",
-      "projectPath": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherServiceTest\\WeatherServiceTest.csproj",
+      "projectPath": "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherServiceTest\\WeatherServiceTest.csproj",
       "packagesPath": "C:\\Users\\Shubham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherServiceTest\\obj\\",
+      "outputPath": "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherServiceTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shubham\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6098,8 +6098,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\WeatherService.csproj": {
-              "projectPath": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\WeatherService.csproj"
+            "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherService\\WeatherService.csproj": {
+              "projectPath": "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherService\\WeatherService.csproj"
             }
           }
         }

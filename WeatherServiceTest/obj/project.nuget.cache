@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9yHBHZKD3A8=",
+  "dgSpecHash": "YJNauuzAJxc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherServiceTest\\WeatherServiceTest.csproj",
+  "projectFilePath": "C:\\Users\\Shubham\\source\\repos\\WeatherServiceTest\\Task_WeatherService\\WeatherServiceTest\\WeatherServiceTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shubham\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Shubham\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
