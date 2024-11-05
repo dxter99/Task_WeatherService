@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E733FCF-99A6-465A-AF25-64EE999514D0}|WeatherService\\WeatherService.csproj|c:\\users\\shubham\\source\\repos\\weatherservice\\weatherservice\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E733FCF-99A6-465A-AF25-64EE999514D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E733FCF-99A6-465A-AF25-64EE999514D0}|WeatherService\\WeatherService.csproj|c:\\users\\shubham\\source\\repos\\weatherservice\\weatherservice\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E733FCF-99A6-465A-AF25-64EE999514D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E733FCF-99A6-465A-AF25-64EE999514D0}|WeatherService\\WeatherService.csproj|c:\\users\\shubham\\source\\repos\\weatherservice\\weatherservice\\models\\iweatherdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E733FCF-99A6-465A-AF25-64EE999514D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\models\\iweatherdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE68D5F-8AEC-4115-905A-459B29258912}|WeatherServiceTest\\WeatherServiceTest.csproj|c:\\users\\shubham\\source\\repos\\weatherservice\\weatherservicetest\\weatherdataservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE68D5F-8AEC-4115-905A-459B29258912}|WeatherServiceTest\\WeatherServiceTest.csproj|solutionrelative:weatherservicetest\\weatherdataservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E733FCF-99A6-465A-AF25-64EE999514D0}|WeatherService\\WeatherService.csproj|c:\\users\\shubham\\source\\repos\\weatherservice\\weatherservice\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E733FCF-99A6-465A-AF25-64EE999514D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E733FCF-99A6-465A-AF25-64EE999514D0}|WeatherService\\WeatherService.csproj|c:\\users\\shubham\\source\\repos\\weatherservice\\weatherservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E733FCF-99A6-465A-AF25-64EE999514D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Program.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\Program.cs",
+              "RelativeToolTip": "WeatherService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:36:48.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\Models\\WeatherResponse.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Models\\WeatherResponse.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\Models\\WeatherResponse.cs",
+              "RelativeToolTip": "WeatherService\\Models\\WeatherResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:16:36.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherDataServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherServiceTest\\WeatherDataServiceTests.cs",
+              "RelativeDocumentMoniker": "WeatherServiceTest\\WeatherDataServiceTests.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherServiceTest\\WeatherDataServiceTests.cs",
+              "RelativeToolTip": "WeatherServiceTest\\WeatherDataServiceTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:14:50.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWeatherDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\Models\\IWeatherDataService.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Models\\IWeatherDataService.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\Models\\IWeatherDataService.cs",
+              "RelativeToolTip": "WeatherService\\Models\\IWeatherDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:11:39.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "WeatherService\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:57:06.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\Shubham\\source\\repos\\WeatherService\\WeatherService\\Services\\WeatherService.cs",
+              "RelativeToolTip": "WeatherService\\Services\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:53:23.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
